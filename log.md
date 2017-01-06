@@ -28,7 +28,7 @@
 **Link(s) to work**
 1. [Working with npm](https://www.freecodecamp.com/challenges/manage-packages-with-npm)
 
-### Day 2: January 6th, Friday
+### Day 2: January 5th, Thursday
 
 **Today's Progress**: I've gone through my second set of Codecamp exercises, where I worked with nodejs servers for the first time. I am really enjoying the Back-End track.
 
